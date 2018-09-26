@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.print("안녕");
+        System.out.println("디지몬");
     }
 }
